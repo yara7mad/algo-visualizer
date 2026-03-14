@@ -17,10 +17,7 @@ Tech Stack
 - CSS (App.css for styling)
 
 
-Getting Started  
+## Live Demo on YouTube
+[![Algo-Visualizer](https://img.youtube.com/be/9VdRLLumhAs/maxresdefault.jpg)](https://youtu.be/9VdRLLumhAs)
 
-Clone the repository:  
-```bash
-git clone https://github.com/yara7mad/algo-visualizer.git
-cd algo-visualizer
-
+*Click the image above to watch the feature in action.*
