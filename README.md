@@ -18,6 +18,6 @@ Tech Stack
 
 
 ## Live Demo on YouTube
-[![Algo-Visualizer](https://img.youtube.com/be/9VdRLLumhAs/maxresdefault.jpg)](https://youtu.be/9VdRLLumhAs)
+[![Algo-Visualizer](https://img.youtube.com/vi/9VdRLLumhAs/maxresdefault.jpg)](https://youtu.be/9VdRLLumhAs)
 
 *Click the image above to watch the feature in action.*
